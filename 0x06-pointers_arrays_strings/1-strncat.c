@@ -8,7 +8,7 @@
  * @src: source string
  * @n: number of bytes to copy from src
  *
- * Reutrn: pointer to the resulting string dest
+ * Return: pointer to the resulting string dest
  */
 char *_strncat(char *dest, char *src, int n)
 {
